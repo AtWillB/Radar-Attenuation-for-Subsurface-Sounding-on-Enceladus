@@ -1,0 +1,5 @@
+icesehll_map,regolith_distribution,attenuation_model,global_min,global_max,global_mean,mean_at_north_pole,mean_at_equator,mean_at_south_pole
+hemingway_map_a,bestcase_regolith,low_loss_nh3_eutectic,0.0,0.105,0.001,0.0,0.0,0.0
+hemingway_map_a,bestcase_regolith,high_loss_nh3_eutectic,0.272,10.483,5.103,3.432,7.632,0.838
+hemingway_map_a,bestcase_regolith,low_loss_nh4cl_eutectic,1.32,24.73,13.78,9.195,18.59,5.965
+hemingway_map_a,bestcase_regolith,low_loss_nh4cl_eutectic,18.503,777.932,409.503,268.565,581.459,48.078

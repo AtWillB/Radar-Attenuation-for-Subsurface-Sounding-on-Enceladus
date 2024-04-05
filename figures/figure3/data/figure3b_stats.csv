@@ -1,0 +1,7 @@
+icesehll_map,regolith_distribution,attenuation_model,global_min,global_max,global_mean,mean_at_north_pole,mean_at_equator,mean_at_south_pole,percent_at_ocean
+hemingway_map_b,no_regolith,low_loss,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+hemingway_map_b,no_regolith,high_loss,86.542,89.931,87.924,88.151,87.124,89.702,0.0
+hemingway_map_b,exponential_regolith,low_loss,68.531,100.0,92.149,100.0,95.167,68.927,21.547
+hemingway_map_b,exponential_regolith,high_loss,68.531,100.0,92.149,100.0,95.167,68.927,21.547
+hemingway_map_b,bestcase_regolith,low_loss,93.031,100.0,99.796,100.0,100.0,100.0,91.16
+hemingway_map_b,bestcase_regolith,high_loss,22.3,89.931,83.271,88.151,87.124,89.702,0.0

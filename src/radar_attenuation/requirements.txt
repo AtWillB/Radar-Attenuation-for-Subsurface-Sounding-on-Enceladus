@@ -1,0 +1,7 @@
+numpy==1.26
+pandas==2.1
+seaborn==0.12
+matplotlib
+
+# Using this package will require the python package GAIA to be available to the python path.
+# If you lack this package, please contact the DLR Institue of Planetary
